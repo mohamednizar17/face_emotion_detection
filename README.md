@@ -95,7 +95,7 @@ It will prompt:
 
 🌐 Running Web Interface (Streamlit)
 
-streamlit run streamlit_app.py
+streamlit run app.py
 
 Features:
 
